@@ -1,0 +1,270 @@
+
+
+html{font-size:62.5%;}
+
+h2{font-size:2rem;}
+
+p,span,a.navbar-brand,.nav-item a{font-size:1.5rem;}
+
+{font-size:1.5rem;}
+
+#navbarNav ul{width:100%;}
+
+/******************CAROUSEL***************/
+
+.carousel-item img{
+	height: 30vw;
+}
+/******************WANTED****************/
+a.nav-pills{
+	font-size:1rem;
+	padding:5px 30px;
+
+}
+
+.wanted-span{margin:20px 0px;}
+
+.nav .nav-item .active{
+	background-color: #040404;
+}
+
+a.nav-link {
+	color: grey;
+}
+
+.wanted-span{
+	margin:20px 0px;
+}
+
+/*********************Card Gandalf*******************/
+
+.cache img{opacity:0.7;
+		display:block;
+		
+}
+
+
+.cache img:hover{opacity:1;}
+
+.card-img-txt{
+	display:flex;
+	flex-direction: column;
+}
+
+.smallGandy, .bigGandy , .golden{
+	width: 50%;
+	align-self:center;
+	text-align:center;
+	margin:0px;
+	position:absolute;
+}
+
+.smallGandy{
+	font-size: 1.2rem;
+	color:white;
+	bottom:50%;
+	opacity:0;	
+}
+
+.cache:hover .smallGandy{
+	opacity:1;}
+
+
+.bigGandy{
+	font-size: 1.7rem;
+	color:white;
+	bottom:70%;	
+}
+
+.cache:hover .bigGandy{
+	opacity:0;}
+
+.golden{
+	font-size: 1.7rem;
+	top:10%%;
+
+
+}
+
+.cache:hover .golden{
+	opacity:0;}
+
+.cache span{
+	color:red;
+	font-weight: bold;
+}
+
+/***********Captured**********/
+
+.capture{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding-bottom: 20px;
+}
+
+.col-12 h2{
+	padding:17px 0px;
+	font-size:2rem;
+}
+
+.col-md-9 p{
+	font-size:1.5rem;
+	margin-right :10px;
+	
+	 	
+}
+
+.d-flex img {
+	display:block;
+	width:180px;
+	height:180px;
+
+
+}
+input {height:3rem;
+	font-size:1.5rem;
+
+}
+
+/******************hunters*******/
+
+.hunters{
+	border-bottom: 1px solid black;
+	padding-bottom:25px;
+}
+
+.col-sm-12 h2{
+	margin:20px 0px;
+}
+
+.col-sm-6 {
+	margin:10px 0px;
+}
+
+
+.media-body h5{
+	font-weight:bold;
+	margin:0;
+}
+
+.media-body p{
+	margin:0;
+}
+
+/**************ring************/
+.ring h2{margin:20px 0px;}
+
+.ring .card{
+	border-radius: 20px;	
+}
+
+
+.card-header{
+	font-weight: bold;
+	font-size: 1.5rem;
+	
+}
+
+table,th,td {
+  border: 1px solid black;
+  text-align: center;
+  font-size: 1.5rem;
+
+}
+
+td ,th{width:50%;}
+
+blockquote span{
+	font-size:1.2rem;
+	color:grey;
+}
+
+blockquote img{
+	border-radius: 100px;
+}
+
+
+.txtPrecious{
+	text-align:e;}
+
+/***********Join****************/	
+	
+.butJoin{
+	text-align: center;
+	margin-top:3rem;}
+
+.join{
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	padding-bottom: 20px;
+}
+/************conatc************/
+.contact h2{margin:20px;}
+
+form{
+	margin:auto;
+	width: 60%;
+
+}
+
+textarea{
+	width: 100%;
+	border: 1.5px solid black;
+}
+
+#inputEmail4{
+	border: 1.5px solid black;
+}
+
+#inputAddress{
+	border: 1.5px solid black;
+}
+
+/**************footer**********/
+
+footer{
+	background-color:black;
+	color:white;
+	list-style-type:  none;
+	padding-top:15px;
+	text-align: center;
+}
+
+li {list-style:none;}
+
+a{color:white;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
